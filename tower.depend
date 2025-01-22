@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1729556907 source:c:\users\omen\desktop\tower\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+
